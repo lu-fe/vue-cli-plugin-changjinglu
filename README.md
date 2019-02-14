@@ -2,4 +2,4 @@
 
 ## usage
 
-`vue create --preset fxxkscript/vue-cli-plugin-changjinglu test-app`
+`vue create --preset fxxkscript/vue-cli-plugin-changjinglu [your-app-name]`
