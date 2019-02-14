@@ -1,5 +1,9 @@
-module.exports = api => {
-  api.render('./template');
+module.exports = (api, options) => {
+  if (options.projectType === 'mobile') {
+    api.render('./h5');
+  } else if (options.projectType === 'pc') {
+    api.render('./pc');
+  }
 
   api.extendPackage({
     "scripts": {
