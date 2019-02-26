@@ -4,6 +4,7 @@
 
 `vue create --preset fxxkscript/vue-cli-plugin-changjinglu [your-app-name]`
 
+如果遇到网络问题，clone 本仓库到本地，然后通过 `vue create --preset [vue-cli-plugin-changjinglu的路径] [your-app-name]` 安装
 
 ## H5
 
