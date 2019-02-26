@@ -5,7 +5,8 @@
     "@vue/cli-plugin-eslint": {
       "config": "prettier",
       "lintOn": [
-        "commit"
+        "commit",
+        "save"
       ]
     }
   },
