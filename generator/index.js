@@ -17,6 +17,12 @@ module.exports = (api, options) => {
       "node-sass": "^4.9.0",
       "postcss-px-to-viewport": "0.0.3",
       "sass-loader": "^7.0.1",
+      "eslint-config-prettier": "4.1.0",
+      "prettier": "^1.16.4",
+      "prettier-eslint": "^8.8.2",
+      "eslint": "^5.8.0",
+      "eslint-plugin-vue": "^5.0.0",
+      "eslint-config-vue": "^2.0.2"
     },
     "husky": {
       "hooks": {
