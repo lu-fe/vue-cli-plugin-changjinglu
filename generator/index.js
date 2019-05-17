@@ -6,6 +6,10 @@ module.exports = (api, options) => {
   }
 
   api.extendPackage({
+    "launch": {
+      "token": "1QnrahfbfW",
+      "publicPath": "/s/lottery-max/"
+    },
     "scripts": {
       "dev": "vue-cli-service serve",
       "build": "vue-cli-service build",
