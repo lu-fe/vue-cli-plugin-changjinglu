@@ -47,6 +47,7 @@ module.exports = {
     OSS: true,
     $: true,
     echarts: true,
-    ActiveXObject: true
+    ActiveXObject: true,
+    APPLICATION_VERSION: true,
   }
 };

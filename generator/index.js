@@ -22,7 +22,8 @@ module.exports = (api, options) => {
       "prettier-eslint": "^8.8.2",
       "eslint": "^5.8.0",
       "eslint-plugin-vue": "^5.0.0",
-      "eslint-config-vue": "^2.0.2"
+      "eslint-config-vue": "^2.0.2",
+      "webpack": "^4.31.0"
     },
     "husky": {
       "hooks": {
